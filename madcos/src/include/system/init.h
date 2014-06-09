@@ -1,0 +1,1 @@
+/**************************************** (c)2008-2009 by MADCrew all rights reserved Marcel S., Dmitrij M.****************************************//***\file init.h*\brief Kernelinitialisierung**/#ifndef _INIT_H_#define _INIT_H_#include <system\console.h>#include <system\interrupts.h>/***\brief initialisiert Kernel**/void init();#endif
